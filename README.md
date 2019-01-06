@@ -1,4 +1,4 @@
-# API Testing Project with Joi assert
+# API Contract Testing with Joi assert
 
 ## Installation
 
