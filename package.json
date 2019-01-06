@@ -1,0 +1,27 @@
+{
+  "name": "acdc2.0-api-testing",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "mocha test/contract/*request.js",
+    "lint": "eslint test/**"
+  },
+  "keywords": [
+    "Testing",
+    "Supertest",
+    "joi"
+  ],
+  "author": "Angelica <lima.angeluca@outlook.com.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "joi": "^14.3.1",
+    "joi-assert": "0.0.3",
+    "mocha": "^5.2.0",
+    "supertest": "^3.0.0",
+    "chai": "^4.2.0"
+
+  },
+  "dependencies": {
+    "node": "^10.15.0"
+  }
+}
